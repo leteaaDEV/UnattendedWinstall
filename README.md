@@ -1,4 +1,4 @@
-# Memory’s Tech Tips’ Unattended Windows Installation
+# Unattended Windows Installation
 
 ## Overview
 
@@ -24,7 +24,7 @@ My motivation for this project is to get an “IoT-LTSC-Like” or even better e
   - When installing Windows on multiple computers, there's no need to manually configure settings and run scripts on each machine, which saves a lot of time (and effort).
 <br/>
 
-## What does Memory's UnattendedWinstall answer files do?
+## What does UnattendedWinstall answer files do?
 
 ### <ins>Choose one of the following versions:</ins>
 ### IoT-LTSC-Like
